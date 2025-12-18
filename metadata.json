@@ -1,0 +1,5 @@
+{
+  "name": "BUHO OSINT",
+  "description": "Una herramienta de inteligencia de fuentes abiertas (OSINT) que visualiza huellas digitales y conexiones en un grafo interactivo con mapa de calor de relevancia.",
+  "requestFramePermissions": []
+}
